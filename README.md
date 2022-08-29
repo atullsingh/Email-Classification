@@ -18,5 +18,6 @@ Used nlpaug library to artificially increase training data size of minority grou
 ### Use of resampling technique:
 Resampling method is a tool consisting in repeatedly drawing samples from a dataset. It increased number of minority class to 400.
 Significant Improvement in F1 score from 0.36 to 0.91.
-## Result: Using text augmentation technique and over resampling technique. Performance of Naïve Bayes and Random Forest model significantly increased.
+## Result: 
+Using text augmentation technique and over resampling technique. Performance of Naïve Bayes and Random Forest model significantly increased.
 
